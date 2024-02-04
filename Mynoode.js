@@ -1,6 +1,6 @@
 class Animal {
   public void animalSoud() {
-    System.out.println("The anials mak ud");
+    System.out.println("The anias mak ud");
   }
 }
 
