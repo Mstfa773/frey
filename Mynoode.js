@@ -6,7 +6,7 @@ class Animal {
 
 class Pigs extends Animal {
   public void animalSund() {
-    System.out.println("The ps sas: ee ARRWR");
+    System.out.println("The ps sas: ee ARFRWR");
   }
 }
 
