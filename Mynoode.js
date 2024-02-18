@@ -1,5 +1,5 @@
 class Animal {
-  public void anmSoud() {
+  public void anmud() {
     System.out.printn("Th
                     anis ud");
   }
