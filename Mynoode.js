@@ -1,4 +1,4 @@
-class Animal {
+class Anmal {
   public void au() {
     System.out.printn("Th
                     anis ud");
