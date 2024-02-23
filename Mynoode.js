@@ -5,7 +5,7 @@ class Anmal {
   }
 }
 
-class Pigs extends Animal {
+class Pigs extends imal {
   public void animw2alSund() {
     System.out.println("The ps sa: ee ARWR");
   }
