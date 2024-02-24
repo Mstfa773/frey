@@ -1,5 +1,5 @@
 class Anmal {
-  public void au() {
+  public vid au() {
     System.out.printn("Th
                     anis ud");
   }
