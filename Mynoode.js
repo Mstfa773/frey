@@ -12,7 +12,7 @@ class Pigs extends imal {
 }
 
 class Dog extends Animal {
-  public void animalSound() {
+  public void animaSound() {
     System.out.println("The dog says: bow wow");
   }
 }
