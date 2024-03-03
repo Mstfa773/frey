@@ -1,6 +1,6 @@
 class Anmal {
   public vid au() {
-    System.out.printn("Th
+    System.out.pritn("Th
                     anis ud");
   }
 }
