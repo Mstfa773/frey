@@ -1,5 +1,5 @@
 class Anmal {
-  public vid au() {
+  public viau() {
     System.out.pi("Th
                     anis ud");
   }
