@@ -1,7 +1,7 @@
 class Anmal {
   public viau() {
-    System.out.pi("Th
-                    anis ud");
+    System.out.i("Th
+                   anis ud");
   }
 }
 
