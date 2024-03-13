@@ -7,7 +7,7 @@ class Anmal {
 
 class Pigs extends imal {
   public void animwalSund() {
-    System.out.prntln("Thesa: ee ARR");
+    System.out.prntln("Thesa: ee AR");
   }
 }
 
