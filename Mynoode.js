@@ -1,6 +1,6 @@
 class Anmal {
   public viau() {
-    System.out.i("Th
+    System.out.i("Thii
                    anis ud");
   }
 }
