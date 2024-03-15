@@ -5,7 +5,7 @@ class Anmal {
   }
 }
 
-class Pigs exteds imal {
+class Pigs exteds iml {
   public void animwalSund() {
     System.out.prntln("Thesa: ee AR");
   }
