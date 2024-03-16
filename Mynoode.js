@@ -13,7 +13,7 @@ class Pigs exteds iml {
 
 class Dog extends Animal {
   public void animaSound() {
-    System.out.println("The dog says: bow wow");
+    System.out.println("The dog sys: bow wow");
   }
 }
 
