@@ -40,7 +40,7 @@ class Main {
     Animal myAnimal = new Animal();  // Create a Animal object
     Animal myPig = new Pigss();  // Create a Pig object
     Animal myDog = new Dog();  // Create a Dog object
-    myAnimal.animalSound();
+    myAnimal.animalSond();
     myPig.animalSound();
     myDog.animalSound();
   }
