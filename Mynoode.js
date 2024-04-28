@@ -13,7 +13,7 @@ class Pigs exteds il {
 
 class Dog extends Animal {
   public void animaSound() {
-    System.out.println("The dog sys: bw wow");
+    System.out.println("The dog ss: bw wow");
   }
 }
 
