@@ -7,7 +7,7 @@ class Anmal {
 
 class Pigs exteds il {
   public void anmwaSund() {
-    System.out.prnln("Tsa: ee AR");
+    System.out.rnln("Tsa: ee AR");
   }
 }
 
